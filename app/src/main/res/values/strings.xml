@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">tp3</string>
+    <string name="app_name">Trabajo Práctico 2</string>
+    <string name="book_default_title">Título</string>
+    <string name="book_default_autor">Autor</string>
+    <string name="book_default_pages_quantity">Cantidad de páginas</string>
+    <string name="book_default_publish_year">Año de publicación</string>
+    <string name="book_default_description">Descripción</string>
+    <string name="book_default_go_back_to_search_btn">Volver a buscar</string>
+    <string name="main_default_search_btn_text">Buscar libro</string>
+    <string name="main_search_input_placeholder">El Quijote</string>
+    <string name="main_search_title">Libros</string>
+    <string name="book_default_image_content_description">Portada</string>
 </resources>
